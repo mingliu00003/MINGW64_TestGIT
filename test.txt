@@ -1,0 +1,2 @@
+# MINGW64_TestGIT
+This is my test file!
